@@ -32,16 +32,17 @@
 	color:#FFF;
 }
 .ParallaxVideo{
-    height: 200px;
-    width: 100%;
+    height: 50px;
+    width: 500px;
     padding-bottom: 50px;
-    padding-top: 50px;
+    padding-left: 25px;
+    /* padding-top: 50px; */
 }
 .ParallaxVideo video{
     min-width: 100%;
-    position: fixed;
-    top:0;
-    z-index: -999;
+    /* position: fixed; */
+    top:50px;
+    /* z-index: -999;  */
 }
 .ParallaxVideo h1 {
   color: #fff;
